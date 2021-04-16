@@ -1,6 +1,6 @@
 :computer: Atualizado em 13 de Maio de 2021 :computer:
 
-# Exercício Autônomo - Recriando a página inicial do Google
+# Exercício - Recriando a página inicial do Google
 
 # Descrição
 
